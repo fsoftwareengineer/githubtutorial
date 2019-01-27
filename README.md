@@ -17,7 +17,7 @@ tutorial-1324: 런 커맨드 Enum으로 변경
 풀 리퀘스트
 -
 Pull Request의 타이틀도 마찬가지로 이슈 타이틀로 통일한다.
-description에 만드시 이슈 링크를 건다.
+description에 반드시 이슈 링크를 건다.
 
 코딩 컨벤션
 -

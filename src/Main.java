@@ -85,10 +85,4 @@ public class Main {
             System.out.println("Removed " + c.name);
         }
     }
-
-    class Contact {
-        String name;
-        String email;
-        String phoneNumber;
-    }
 }

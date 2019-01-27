@@ -1,0 +1,9 @@
+# Ignore Idea file
+.idea/
+
+#Helloworld file
+HelloWorld.iml
+
+#build files
+out/
+

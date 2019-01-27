@@ -4,7 +4,7 @@ Code Contributer를 위한 글.
 
 이슈 타이틀
 -
-이슈 타이틀은 다음과 같다. tutorial-<issue number>: 이슈 제목
+이슈 타이틀은 다음과 같다. tutorial-issue번호: 이슈 제목
 
 커밋 메시지
 -

@@ -19,7 +19,7 @@ public class Contact {
     private void setEmail(String email){
        this.email = email;
     }
-    private void setName(String phoneNumber){
+    private void setPhoneNumber(String phoneNumber){
        this.phoneNumber = phoneNumber;
     }
 }

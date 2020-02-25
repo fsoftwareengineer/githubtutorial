@@ -46,7 +46,7 @@ public class Main {
 
     private void show() {
         for (Contact contact : contacts) {
-            System.out.println("Name: " + contact.name + " Email: " + contact.email + " Phone: " + contact.phoneNumber);
+            System.out.println("NAMEname: " + contact.name + " Email: " + contact.email + " Phone: " + contact.phoneNumber);
         }
     }
 

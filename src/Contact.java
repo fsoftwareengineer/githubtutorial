@@ -1,5 +1,5 @@
 public class Contact {
-    String name;
-    String email;
-    String phoneNumber;
+    private String name;
+    private String email;
+    private String phoneNumber;
 }

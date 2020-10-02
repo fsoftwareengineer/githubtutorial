@@ -22,3 +22,8 @@ return email;
 public String getPhoneNumber() {
 this.phoneNumber = phoneNumber;
 }
+
+	@Override
+	public String toString() {
+		return "Contact [name=" + name + ", email=" + email + ", phoneNumber=" + phoneNumber + "]";
+	}

@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+//깃헙 풀 리퀘 테스트
+
 public class Main {
     private List<Contact> contacts = new ArrayList<>();
 
